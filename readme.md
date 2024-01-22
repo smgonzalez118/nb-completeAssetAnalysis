@@ -62,3 +62,6 @@ _Para ver el demo, por favor ingresar a la Notebook "assetAnalysis.ipynb" para v
       (puntaje) base 10 a modo resumen, para cada marco temporal. Ver detalle de outputs en la documentación de la función/método.
 
 Nota: todas las funciones se encuentran adecuadamente documentadas en los lugares respectivos.
+
+AGRADECIMIENTOS
+Las funciones de Análisis Fundamental tienen aportes de código de la serie de libros "Python para Finanzas Quant" de Juan Pablo Pisano.
